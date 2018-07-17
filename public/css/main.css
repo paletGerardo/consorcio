@@ -1,0 +1,50 @@
+
+.btn{
+    padding: 5px 7px !important;
+}
+
+.content{
+    padding: 0 !important;
+}
+
+
+.d-flex {
+    display: flex;
+}
+
+
+
+.justify-content-between {
+    justify-content: space-between !important;
+}
+
+.titulo {
+    color: #3c8dbc;
+    font-size: 2.3rem;
+}
+
+.justify-content {
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+
+
+
+.aparte {
+    width: 800px !important;
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+    font-size: 3.4rem;
+}
+
+
+
+.d-flexo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
